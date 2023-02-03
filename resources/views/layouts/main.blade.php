@@ -68,8 +68,8 @@
    
     
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">  
-<link href="css/style.css" rel="stylesheet" type="text/css"/>  
+<link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">  
+<link href="{{asset('css/style.css')}}" rel="stylesheet" type="text/css"/>  
 
 <script>
   function subscribeForm() {
@@ -83,16 +83,16 @@
   }
 </script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
-<script src="js/jquery-ui.min.js"></script>
-<script src="js/all.js"></script>
-<script src="js/jscolor.min.js"></script>
-<script src="js/jquery.knob.js"></script>
-<script src="js/jquery.throttle.js"></script>
-<script src="js/jquery.classycountdown.js"></script>
-<script src="js/jarallax.js"></script>
-<script src="js/color.picker.js"></script>
+<script src="{{url('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script> 
+<script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js')}}"></script>
+<script src="{{asset('js/jquery-ui.min.js')}}"></script>
+<script src="{{asset('js/all.js')}}"></script>
+<script src="{{asset('js/jscolor.min.js')}}"></script>
+<script src="{{asset('js/jquery.knob.js')}}"></script>
+<script src="{{asset('js/jquery.throttle.js')}}"></script>
+<script src="{{asset('js/jquery.classycountdown.js')}}"></script>
+<script src="{{asset('js/jarallax.js')}}"></script>
+<script src="{{asset('js/color.picker.js')}}"></script>
 
 </body>
 </html>	
