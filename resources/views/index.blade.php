@@ -7,7 +7,7 @@
        <div class="swiper-container full-h paralax-slider animation-3" data-mode="horizontal" data-autoplay="5000" data-slides-per-view="1" data-loop="0" data-speed="1000" data-parallax="1">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <div class="parallax-bg bg" style="background-image: url(img/home-1/home1_slider_img_1.jpg)" data-swiper-parallax="50%"></div>
+                  <div class="parallax-bg bg" style="background-image: url(img/home-1/101.jpg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
@@ -32,7 +32,7 @@
                    </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="parallax-bg layer bg" style="background-image: url(img/home-1/section_home1_bg_1.jpg)" data-swiper-parallax="50%"></div>
+                    <div class="parallax-bg layer bg" style="background-image: url(img/home-1/machine.jpeg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
@@ -57,7 +57,7 @@
                    </div>
                 </div>
                 <div class="swiper-slide">
-                   <div class="parallax-bg bg" style="background-image: url(img/home-1/home1_slider_img_3.jpg)" data-swiper-parallax="50%"></div>
+                   <div class="parallax-bg bg" style="background-image: url(img/home-1/truck2.jpg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
@@ -104,7 +104,7 @@
                        <div class="empty-sm-10 empty-xs-10"></div>
                        <div class="simple-text md simple-sub-text">
                            <p>
-                            TransElgon millers ltd is a maize flour production company.
+                            TransElgon millers ltd is a maize flour milling company.
                             </p>
                        </div>
                        <div class="empty-sm-35 empty-xs-25"></div>
