@@ -64,13 +64,13 @@
 
                 <div class="row">
                   <div class="col-sm-12">
-                   <img src="img/about/recognition-1.jpg" alt="" class="full-img">
+                   <img src="{{asset('img/about/recognition-1.jpg')}}" alt="" class="full-img">
                   </div>
                   <div class="empty-sm-30 empty-xs-30"></div>
                   <div class="col-sm-12">
                     <div class="wrapp-border">
                       <span class="page-span-5 page-span left"></span> 
-                      <img src="img/about/recognition-2.jpg" alt="" class="full-img">
+                      <img src="{{asset('img/about/recognition-2.jpg')}}" alt="" class="full-img">
                    </div>
                   </div>
                 </div>
@@ -78,7 +78,7 @@
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="wrapp-border">
                   <span class="page-span-6 page-span right"></span> 
-                  <img src="img/about/recognition-3.jpg" alt="" class="full-img">
+                  <img src="{{asset('img/about/recognition-3.jpg')}}" alt="" class="full-img">
                 </div>
               </div>
             </div>
@@ -163,7 +163,7 @@
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="wrapp-border">
                   <span class="page-span-6 page-span left"></span> 
-                  <img src="img/about/impression-1.jpg" alt="" class="full-img">
+                  <img src="{{asset('img/about/impression-1.jpg')}}" alt="" class="full-img">
                 </div>
               </div>
               <div class="col-md-6 col-sm-6 col-xs-6">
@@ -171,13 +171,13 @@
                   <div class="col-sm-12">
                     <div class="wrapp-border">
                       <span class="page-span-5 page-span right"></span> 
-                      <img src="img/about/impression-2.jpg" alt="" class="full-img">
+                      <img src="{{asset('img/about/impression-2.jpg')}}" alt="" class="full-img">
                    </div>
                   </div>
                   <div class="empty-sm-30 empty-xs-30"></div>
                   <div class="col-sm-12">
                     <div class="wrapp-border">
-                      <img src="img/about/impression-3.jpg" alt="" class="full-img">
+                      <img src="{{asset('img/about/impression-3.jpg')}}" alt="" class="full-img">
                    </div>
                   </div>
                 </div>
@@ -213,9 +213,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
              <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-1.jpg" alt="">
+                <img src="{{asset('img/about/food-image-1.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
              </div>
@@ -223,9 +223,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-2.jpg" alt="">
+                <img src="{{asset('img/about/food-image-2.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
             </div>
@@ -233,9 +233,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-3.jpg" alt="">
+                <img src="{{asset('img/about/food-image-3.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
             </div>
@@ -243,9 +243,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-4.jpg" alt="">
+                <img src="{{asset('img/about/food-image-4.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
             </div>
@@ -253,9 +253,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-5.jpg" alt="">
+                <img src="{{asset('img/about/food-image-5.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
             </div>
@@ -263,9 +263,9 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="img/about/food-image-6.jpg" alt="">
+                <img src="{{asset('img/about/food-image-6.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
-                  <h5 class="h5 caption"><a href="#" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
+                  <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
               </div>
             </div>

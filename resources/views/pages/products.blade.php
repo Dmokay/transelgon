@@ -20,7 +20,7 @@
                      </div>
                    </div>
                   </div>   
-                    </div>
+                  </div>
                  </div>
              </div>
            </div> 
@@ -33,7 +33,7 @@
       <div class="container">
         <div class="row left-right-item">
           <div class="col-md-6 col-md-push-6 col-xs-12">
-            <img src="img/services/service-1.jpg" alt="" class="full-img">
+            <img src="{{asset('img/services/service-1.jpg')}}" alt="" class="full-img">
             <div class="empty-md-0 empty-sm-20 empty-xs-15"></div>
           </div>
           <div class="col-md-6 col-md-pull-6 col-xs-12">
@@ -65,7 +65,7 @@
         <div class="empty-lg-70 empty-md-50 empty-sm-30 empty-xs-30"></div>
         <div class="row left-right-item">
           <div class="col-md-6 col-xs-12">
-            <img src="img/services/service-2.jpg" alt="" class="full-img">
+            <img src="{{asset('img/services/service-2.jpg')}}" alt="" class="full-img">
             <div class="empty-md-0 empty-sm-20 empty-xs-15"></div>
           </div>
           <div class="col-md-6 col-xs-12">

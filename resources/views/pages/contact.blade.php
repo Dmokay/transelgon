@@ -115,7 +115,7 @@
     </section>
     
     <section class="section">
-      <div class="empty-lg-120 empty-md-100 empty-sm-60 empty-xs-60"></div>
+      <div class="empty-lg-60 empty-md-50 empty-sm-30 empty-xs-30"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 col-xs-12">
@@ -182,7 +182,7 @@
             </aside>
           </div>
           <div class="col-md-8 col-xs-12">
-            <div class="empty-sm-70 empty-xs-30"></div>
+            <div class="empty-sm-60 empty-xs-25"></div>
             <div class="text-center color-type-2">
               <h4 class="h4 tt color-type-1">Please, feel free to leave us a message or comment</h4>
             </div>
@@ -217,7 +217,7 @@
                   <input type="text" class="input-field" placeholder="Subject" name="subject"> 
                   <div class="focus"></div>
                  </div>
-                 <div class="empty-sm-20 empty-xs-20"></div>      
+                 <!-- <div class="empty-sm-20 empty-xs-20"></div>       -->
                 </div>
               </div>
               <div class="input-field-wrap">  
@@ -295,7 +295,7 @@
         </div>
       </div>
     </section>  -->
-    <div class="empty-lg-120 empty-md-100 empty-sm-60 empty-xs-60"></div>
+    <div class="empty-lg-60 empty-md-50 empty-sm-30 empty-xs-30"></div>
 	</div>
 
 @endsection
