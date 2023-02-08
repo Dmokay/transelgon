@@ -69,7 +69,7 @@
     
 
 <link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">  
-<link href="{{asset('css/style.css')}}" rel="stylesheet" type="text/css"/>  
+<link href="{{url('css/style.css')}}" rel="stylesheet" type="text/css"/>  
 
 <script>
   function subscribeForm() {
@@ -83,8 +83,8 @@
   }
 </script>
 
-<script src="{{url('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script> 
-<script src="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js')}}"></script>
+<script src="{{asset('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script> 
+<script src="{{asset('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js')}}"></script>
 <script src="{{asset('js/jquery-ui.min.js')}}"></script>
 <script src="{{asset('js/all.js')}}"></script>
 <script src="{{asset('js/jscolor.min.js')}}"></script>
