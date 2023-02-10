@@ -4,7 +4,7 @@
 <div class="main-content">
     
     <section class="full-height-slider type-1">
-       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/about/main-baner-bg.jpg)" data-swiper-parallax="50%"></div>
+       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/background6.png)" data-swiper-parallax="50%"></div>
 		   <div class="table-view mobile-rel-block">
 			  <div class="table-cell">
 			   <div class="container no-padd"> 
@@ -64,13 +64,13 @@
 
                 <div class="row">
                   <div class="col-sm-12">
-                   <img src="{{asset('img/about/recognition-1.jpg')}}" alt="" class="full-img">
+                   <img src="{{asset('img/tem/recog1.1.png')}}" alt="" class="full-img">
                   </div>
                   <div class="empty-sm-30 empty-xs-30"></div>
                   <div class="col-sm-12">
                     <div class="wrapp-border">
                       <span class="page-span-5 page-span left"></span> 
-                      <img src="{{asset('img/about/recognition-2.jpg')}}" alt="" class="full-img">
+                      <img src="{{asset('img/tem/recog1.2.jpg')}}" alt="" class="full-img">
                    </div>
                   </div>
                 </div>
@@ -78,7 +78,7 @@
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="wrapp-border">
                   <span class="page-span-6 page-span right"></span> 
-                  <img src="{{asset('img/about/recognition-3.jpg')}}" alt="" class="full-img">
+                  <img src="{{asset('img/tem/recog2.1.png')}}" alt="" class="full-img">
                 </div>
               </div>
             </div>
@@ -90,7 +90,7 @@
     
     <section class="section">
       <div class="empty-lg-70 empty-md-50 empty-sm-30 empty-xs-30"></div> 
-      <div class="bg fix" style="background-image: url(img/about/baner-2-bg.jpg)"></div>
+      <div class="bg fix" style="background-image: url(img/tem/background4.png)"></div>
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 col-xs-12">
@@ -163,7 +163,7 @@
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="wrapp-border">
                   <span class="page-span-6 page-span left"></span> 
-                  <img src="{{asset('img/about/impression-1.jpg')}}" alt="" class="full-img">
+                  <img src="{{asset('img/tem/recog2.2.png')}}" alt="" class="full-img">
                 </div>
               </div>
               <div class="col-md-6 col-sm-6 col-xs-6">
@@ -171,13 +171,13 @@
                   <div class="col-sm-12">
                     <div class="wrapp-border">
                       <span class="page-span-5 page-span right"></span> 
-                      <img src="{{asset('img/about/impression-2.jpg')}}" alt="" class="full-img">
+                      <img src="{{asset('img/tem/recog1.3.png')}}" alt="" class="full-img">
                    </div>
                   </div>
                   <div class="empty-sm-30 empty-xs-30"></div>
                   <div class="col-sm-12">
                     <div class="wrapp-border">
-                      <img src="{{asset('img/about/impression-3.jpg')}}" alt="" class="full-img">
+                      <img src="{{asset('img/tem/recog1.4.png')}}" alt="" class="full-img">
                    </div>
                   </div>
                 </div>
@@ -213,7 +213,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
              <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-1.jpg')}}" alt="">
+                <img src="{{asset('img/tem/gallery1.png')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -223,7 +223,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-2.jpg')}}" alt="">
+                <img src="{{asset('img/tem/gallery2.png')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -233,7 +233,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-3.jpg')}}" alt="">
+                <img src="{{asset('img/tem/gallery3.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -243,7 +243,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-4.jpg')}}" alt="">
+                <img src="{{asset('img/tem/gallery4.png')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -253,7 +253,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-5.jpg')}}" alt="">
+                <img src="{{asset('img/tem/gallery5.png')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -263,7 +263,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/about/food-image-6.jpg')}}" alt="">
+                <img src="{{asset('img/tem/truck.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>

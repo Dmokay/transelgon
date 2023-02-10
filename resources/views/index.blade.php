@@ -94,7 +94,7 @@
                     <div class="simple-item-style-2 simple-item">
                       <span class="page-span-1 page-span"></span>
                       <span class="page-span-2 page-span type-2"></span>
-                      <img src="{{asset('img/home-1/about_home_1_img_1.jpg')}}" alt="" class="resp-img">
+                      <img src="{{asset('img/tem/about1.2.jpg')}}" alt="" class="resp-img">
                     </div>
                     <div class="empty-lg-0 empty-md-0 empty-sm-60 empty-xs-40"></div>
                 </div>
@@ -126,7 +126,7 @@
                     <div class="simple-item-style-2 simple-item">
                       <span class="page-span-1 page-span type-2"></span>
                       <span class="page-span-2 page-span"></span>
-                      <img src="{{asset('img/home-1/about_home_1_img_2.jpg')}}" alt="" class="resp-img">
+                      <img src="{{asset('img/tem/about1.1.png')}}" alt="" class="resp-img">
                     </div>
                 </div>
             </div>
@@ -136,7 +136,7 @@
     
     <section class="section">
      <div class="empty-lg-170 empty-md-70 empty-sm-50 empty-xs-20"></div>
-      <div class="bg layer ready data-jarallax" data-jarallax="5" style="background-image: url(img/home-1/section_home1_bg_1.jpg)"></div>
+      <div class="bg layer ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/background4.png)"></div>
        <div class="container item-animation scroll-type-1">
          <div class="simple-item text-center color-type-1 simple-item-style-1">
            <div class="first-div sub-title">Products</div>
@@ -259,7 +259,7 @@
     
     <section class="section">
      <div class="empty-lg-170 empty-md-70 empty-sm-50 empty-xs-20"></div>
-      <div class="bg layer ready data-jarallax" data-jarallax="5" style="background-image: url(img/home-1/section_home1_bg_2.jpg)"></div>
+      <div class="bg layer ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/background5.png)"></div>
        <div class="container item-animation scroll-type-1">
          <div class="simple-item text-center color-type-1 simple-item-style-1">
            <div class="first-div sub-title">Core Values</div>
@@ -305,14 +305,14 @@
                           <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="simple-item-style-2 simple-item">
                               <span class="page-span-3 page-span"></span>
-                              <img src="{{asset('img/home-1/about_home_1_img_3.jpg')}}" alt="" class="resp-img">
+                              <img src="{{asset('img/tem/homelast1.1.jpg')}}" alt="" class="resp-img">
                             </div>
                             <div class="empty-sm-30 empty-xs-30"></div>
                           </div>
                           <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="simple-item-style-2 simple-item">
                               <span class="page-span-1 page-span type-2"></span>
-                              <img src="{{asset('img/home-1/about_home_1_img_4.jpg')}}" alt="" class="resp-img">
+                              <img src="{{asset('img/tem/homelast1.2.png')}}" alt="" class="resp-img">
                             </div>
                             <div class="empty-sm-30 empty-xs-30"></div>
                           </div>  
@@ -320,7 +320,7 @@
                        <div class="simple-item-style-2 simple-item">
                           <span class="page-span-4 page-span"></span>
                           <span class="page-span-2 page-span type-2"></span>
-                          <img src="{{asset('img/home-1/about_home_1_img_5.jpg')}}" alt="" class="resp-img">
+                          <img src="{{asset('img/tem/homelast.png')}}" alt="" class="resp-img">
                         </div>
                     </div>
                 </div>
