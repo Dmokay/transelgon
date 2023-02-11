@@ -24,7 +24,7 @@
                                    </div>
                                <div class="empty-sm-45  empty-xs-45"></div>
                                <div class="button-wrap">
-                                   <a href="#" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
+                                   <a href="{{route('contact')}}" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
                                </div>
                            </div>
                        </div>
@@ -32,7 +32,7 @@
                    </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="parallax-bg layer bg" style="background-image: url(img/home-1/machine.jpeg)" data-swiper-parallax="50%"></div>
+                    <div class="parallax-bg layer bg" style="background-image: url(img/tem/factory.jpg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
@@ -49,7 +49,7 @@
                                    </div>
                                <div class="empty-sm-45  empty-xs-45"></div>
                                <div class="button-wrap">
-                                   <a href="#" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
+                                   <a href="{{route('contact')}}" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
                                </div>
                            </div>
                        </div>
@@ -57,7 +57,7 @@
                    </div>
                 </div>
                 <div class="swiper-slide">
-                   <div class="parallax-bg bg" style="background-image: url(img/home-1/truck2.jpg)" data-swiper-parallax="50%"></div>
+                   <div class="parallax-bg bg" style="background-image: url(img/tem/truck2.jpg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
@@ -74,7 +74,7 @@
                                    </div>
                                <div class="empty-sm-45  empty-xs-45"></div>
                                <div class="button-wrap">
-                                   <a href="#" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
+                                   <a href="{{route('contact')}}" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
                                </div>
                            </div>
                        </div>
@@ -119,7 +119,7 @@
                         </p>
                        </div>
                        <div class="empty-sm-45 empty-xs-35"></div>
-                       <a href="#" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">about us</span></a>
+                       <a href="{{route('about')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">about us</span></a>
                    </div>
                 </div>
                 <div class="col-md-3 col-sm-12 col-xs-12 md-hide">
@@ -150,7 +150,7 @@
                </div>
                <div class="empty-sm-40  empty-xs-40"></div>
                <div class="button-wrap">
-                   <a href="#" class="page-button button-style-1"><span class="txt">Shop</span></a>
+                   <a href="{{route('comingsoon')}}" class="page-button button-style-1"><span class="txt">Shop</span></a>
                </div>
          </div>  
        </div>
@@ -180,7 +180,7 @@
                       <div class="image">
                           <span class="page-span-1 page-span"></span>
                           <span class="page-span-2 page-span type-2"></span>
-                          <img src="{{asset('img/home-1/menu_item_1.jpg')}}" alt="">
+                          <img src="{{asset('img/tem/flour.png')}}" alt="">
                           <div class="vertical-align full menu-button">
                               <a href="#" class="page-button button-style-1"><span class="txt">view more</span></a>
                           </div>
@@ -198,7 +198,7 @@
                      <div class="menu-item menu-item-1">
                       <div class="image">
                           <span class="page-span-4 page-span"></span>
-                          <img src="{{asset('img/home-1/menu_item_2.jpg')}}" alt="">
+                          <img src="{{asset('img/tem/feeds.png')}}" alt="">
                           <div class="vertical-align full menu-button">
                               <a href="#" class="page-button button-style-1"><span class="txt">view more</span></a>
                           </div>
@@ -215,7 +215,7 @@
                  <div class="col-md-3 col-sm-6 col-xs-12">
                      <div class="menu-item menu-item-1">
                       <div class="image">
-                          <img src="{{asset('img/home-1/menu_item_3.jpg')}}" alt="">
+                          <img src="{{asset('img/tem/grains.png')}}" alt="">
                           <div class="vertical-align full menu-button">
                               <a href="#" class="page-button button-style-1"><span class="txt">view more</span></a>
                           </div>
@@ -234,7 +234,7 @@
                       <div class="image">
                           <span class="page-span-4 type-2 page-span"></span>
                           <span class="page-span-3 page-span"></span>
-                          <img src="{{asset('img/home-1/menu_item_4.jpg')}}" alt="">
+                          <img src="{{asset('img/tem/packaging.png')}}" alt="">
                           <div class="vertical-align full menu-button">
                               <a href="#" class="page-button button-style-1"><span class="txt">view more</span></a>
                           </div>
@@ -250,7 +250,7 @@
                  </div>     
                <div class="text-center">
                   <div class="empty-sm-20 empty-xs-20"></div>
-                   <a href="#" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_1.jpg)"></span><span class="txt">Other products</span></a>
+                   <a href="{{route('products')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Our products</span></a>
                </div>
              </div>
          </div>
@@ -273,7 +273,7 @@
                </div>
                <div class="empty-sm-40  empty-xs-40"></div>
                <div class="button-wrap">
-                   <a href="#" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
+                   <a href="{{route('contact')}}" class="page-button button-style-1"><span class="txt">Talk to Us</span></a>
                </div>
          </div>  
        </div>
@@ -296,7 +296,7 @@
                                <p>Mwamba Maize Flour has been produced to bring back the nutrious and tasty qualities which had been deprived from us.</p>
                            </div>
                            <div class="empty-sm-45  empty-xs-45"></div>
-                           <a href="#" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_2.jpg)"></span><span class="txt">our menu</span></a>
+                           <a href="{{route('products')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">our products</span></a>
                         </div>
                         <div class="empty-lg-0 empty-md-0 empty-sm-60 empty-xs-60"></div>
                     </div>

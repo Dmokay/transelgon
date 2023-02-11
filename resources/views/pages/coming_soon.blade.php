@@ -105,7 +105,7 @@
     </header> 
     
     <section class="full-height-slider">
-       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/coming-soon/coming-soon-bg.jpg)" data-swiper-parallax="50%"></div>
+       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/hourglass.png)" data-swiper-parallax="50%"></div>
     		<div class="table-view mobile-rel-block">
     			<div class="table-cell">
     			   <div class="container"> 
