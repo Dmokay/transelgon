@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <meta name="format-detection" content="telephone=no" /> 
-        <link rel="shortcut icon" href="favicon.ico"/>     
+    <meta name="format-detection" content="telephone=no" />
+        <link rel="shortcut icon" href="favicon.ico"/>
       <title>Transelgonmillers</title>
       <style id="dynamic-css"></style>
       <style type="text/css">
@@ -57,7 +57,7 @@
     </style>
   </head>
 <body class="page-color-style-6 page-style-6">
-   
+
     <div class="preloader">
      <div class="sk-cube-grid selected">
       <div class="sk-cube sk-cube1"></div>
@@ -71,25 +71,39 @@
       <div class="sk-cube sk-cube9"></div>
     </div>
    </div>
-    
-    
+
+
    <header class="header header-style-1">
-      <div class="navigation flex-align">   
+      <div class="navigation flex-align">
          <a href="{{url('/')}}" class="logo"><img src="{{asset('img/tlogo.png')}}" alt="transelgonmillers"><img src="{{asset('img/tlogo.png')}}" alt="transelgonmillers" class="logo-type-2"></a>
           <div class="burger-menu"><i></i></div>
            <div class="nav">
             <div class="nav-align-wrap">
             <div class="right-block">
                 <div class="follow coming">
-                    <a href="{{url('https://web.facebook.com/people/TransElgon-Millers-Ltd/100086998458173/')}}">
+                    <a href="{{url('https://web.facebook.com/people/TransElgon-Millers-Ltd/100086998458173/')}}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" viewBox="0 0 155.139 155.139" style="enable-background:new 0 0 155.139 155.139;" xml:space="preserve" width="16px" height="16px"><g>
                             <path d="M89.584,155.139V84.378h23.742l3.562-27.585H89.584V39.184   c0-7.984,2.208-13.425,13.67-13.425l14.595-0.006V1.08C115.325,0.752,106.661,0,96.577,0C75.52,0,61.104,12.853,61.104,36.452   v20.341H37.29v27.585h23.814v70.761H89.584z" fill="#FFFFFF"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g>
                         </svg>
                     </a>
-                    <a href="{{url('https://twitter.com/transelgonmill')}}">
+                    <a href="{{url('https://twitter.com/transelgonmill')}}" target="_blank">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 310 310" style="enable-background:new 0 0 310 310;" xml:space="preserve" width="16px" height="16px">
                         <g>
                             <path d="M302.973,57.388c-4.87,2.16-9.877,3.983-14.993,5.463c6.057-6.85,10.675-14.91,13.494-23.73   c0.632-1.977-0.023-4.141-1.648-5.434c-1.623-1.294-3.878-1.449-5.665-0.39c-10.865,6.444-22.587,11.075-34.878,13.783   c-12.381-12.098-29.197-18.983-46.581-18.983c-36.695,0-66.549,29.853-66.549,66.547c0,2.89,0.183,5.764,0.545,8.598   C101.163,99.244,58.83,76.863,29.76,41.204c-1.036-1.271-2.632-1.956-4.266-1.825c-1.635,0.128-3.104,1.05-3.93,2.467   c-5.896,10.117-9.013,21.688-9.013,33.461c0,16.035,5.725,31.249,15.838,43.137c-3.075-1.065-6.059-2.396-8.907-3.977   c-1.529-0.851-3.395-0.838-4.914,0.033c-1.52,0.871-2.473,2.473-2.513,4.224c-0.007,0.295-0.007,0.59-0.007,0.889   c0,23.935,12.882,45.484,32.577,57.229c-1.692-0.169-3.383-0.414-5.063-0.735c-1.732-0.331-3.513,0.276-4.681,1.597   c-1.17,1.32-1.557,3.16-1.018,4.84c7.29,22.76,26.059,39.501,48.749,44.605c-18.819,11.787-40.34,17.961-62.932,17.961   c-4.714,0-9.455-0.277-14.095-0.826c-2.305-0.274-4.509,1.087-5.294,3.279c-0.785,2.193,0.047,4.638,2.008,5.895   c29.023,18.609,62.582,28.445,97.047,28.445c67.754,0,110.139-31.95,133.764-58.753c29.46-33.421,46.356-77.658,46.356-121.367   c0-1.826-0.028-3.67-0.084-5.508c11.623-8.757,21.63-19.355,29.773-31.536c1.237-1.85,1.103-4.295-0.33-5.998   C307.394,57.037,305.009,56.486,302.973,57.388z" fill="#FFFFFF"/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+                    </a>
+                    <a href="{{url('https://www.instagram.com/transelgonmillersltd/ ')}}" target="_blank">
+                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve"><g><path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752
+                      c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407
+                      c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752
+                      c17.455,0,31.656,14.201,31.656,31.655V122.407z"  fill="#FFFFFF"/>
+                                <path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561
+                      C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561
+                      c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"  fill="#FFFFFF"/>
+                                <path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78
+                      c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78
+                      C135.661,29.421,132.821,28.251,129.921,28.251z"  fill="#FFFFFF"/>
+                            </g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g>
+                    </svg>
                     </a>
                     <!-- <a href="{{url('#')}}">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  x="0px" y="0px" width="16px" height="16px" viewBox="0 0 604.35 604.35" style="enable-background:new 0 0 604.35 604.35;" xml:space="preserve">
@@ -100,15 +114,15 @@
                 </div>
             </div>
             </div>
-           </div>    
+           </div>
         </div>
-    </header> 
-    
+    </header>
+
     <section class="full-height-slider">
        <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/hourglass.png)" data-swiper-parallax="50%"></div>
     		<div class="table-view mobile-rel-block">
     			<div class="table-cell">
-    			   <div class="container"> 
+    			   <div class="container">
     				   <div class="row vertical-wrap">
     						<div class="col-sm-8 col-sm-offset-2 col-xs-12">
     						  <div class="simple-item color-type-1 text-center">
@@ -120,12 +134,12 @@
       								 <p>Something Amazing is Cooking. Mamba Maize Flour is one of the Ingredients</p>
       							 </div>
     						   </div>
-    						  </div>   
+    						  </div>
     							</div>
     						</div>
     						<div class="empty-sm-30 empty-xs-20"></div>
     						<div class="col-sm-8 col-sm-offset-2 col-xs-12">
-    							<div class="countdown countdown-type " data-line="0.01" data-end="315360" data-fgcolor="#ffffff" data-bgcolor="rgba(255,255,255,0.2)"></div> 
+    							<div class="countdown countdown-type " data-line="0.01" data-end="315360" data-fgcolor="#ffffff" data-bgcolor="rgba(255,255,255,0.2)"></div>
     						</div>
     						<div class="col-xs-12">
                   <ul class="list-style-2 ul-list coming-address text-center">
@@ -144,7 +158,7 @@
                       <g><path d="M498.208,68.235c-8.945-8.947-19.701-13.418-32.261-13.418H45.682c-12.562,0-23.318,4.471-32.264,13.418   C4.471,77.18,0,87.935,0,100.499v310.633c0,12.566,4.471,23.312,13.418,32.257c8.945,8.953,19.701,13.422,32.264,13.422h420.266   c12.56,0,23.315-4.469,32.261-13.422c8.949-8.945,13.418-19.697,13.418-32.257V100.499   C511.626,87.935,507.158,77.18,498.208,68.235z M475.078,411.125c0,2.475-0.903,4.616-2.714,6.424   c-1.81,1.81-3.949,2.706-6.42,2.706H45.679c-2.474,0-4.616-0.896-6.423-2.706c-1.809-1.808-2.712-3.949-2.712-6.424V191.858   c6.09,6.852,12.657,13.134,19.7,18.843c51.012,39.209,91.553,71.374,121.627,96.5c9.707,8.186,17.607,14.561,23.697,19.13   c6.09,4.571,14.322,9.185,24.694,13.846c10.373,4.668,20.129,6.991,29.265,6.991h0.287h0.284c9.134,0,18.894-2.323,29.263-6.991   c10.376-4.661,18.613-9.274,24.701-13.846c6.089-4.569,13.99-10.944,23.698-19.13c30.074-25.126,70.61-57.291,121.624-96.5   c7.043-5.708,13.613-11.991,19.694-18.843V411.125L475.078,411.125z M475.078,107.92v3.14c0,11.229-4.421,23.745-13.271,37.543   c-8.851,13.798-18.419,24.792-28.691,32.974c-36.74,28.936-74.897,59.101-114.495,90.506c-1.14,0.951-4.474,3.757-9.996,8.418   c-5.514,4.668-9.894,8.241-13.131,10.712c-3.241,2.478-7.471,5.475-12.703,8.993c-5.236,3.518-10.041,6.14-14.418,7.851   c-4.377,1.707-8.47,2.562-12.275,2.562h-0.284h-0.287c-3.806,0-7.895-0.855-12.275-2.562c-4.377-1.711-9.185-4.333-14.417-7.851   c-5.231-3.519-9.467-6.516-12.703-8.993c-3.234-2.471-7.614-6.044-13.132-10.712c-5.52-4.661-8.854-7.467-9.995-8.418   c-39.589-31.406-77.75-61.57-114.487-90.506c-27.981-22.076-41.969-49.106-41.969-81.083c0-2.472,0.903-4.615,2.712-6.421   c1.809-1.809,3.949-2.714,6.423-2.714h420.266c1.52,0.855,2.854,1.093,3.997,0.715c1.143-0.385,1.998,0.331,2.566,2.138   c0.571,1.809,1.095,2.664,1.57,2.57c0.477-0.096,0.764,1.093,0.859,3.571c0.089,2.473,0.137,3.718,0.137,3.718V107.92   L475.078,107.92z" fill="#898989"></path></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g>
                       </svg>
                      <a href="mailto:" class="link-hover"><b>Email:</b> transelgonmillers@gmail.com</a></li>
-                 </ul>      
+                 </ul>
                 </div>
     						<div class="col-sm-8 col-sm-offset-2 col-xs-12">
                   <form action="/" onsubmit="return subscribeForm();" method="post" id="subscribe-form" class="subscribe-form flex-align form-type-2 coming-subscribe">
@@ -163,13 +177,13 @@
     					     <span>© 2023 All Rights Reserved. Development by <a href="{{url('libertybreeze.net')}}">Liberty Breeze</a></span>
                  </div>
     				   </div>
-    			   </div>				
-    			</div>		
+    			   </div>
+    			</div>
     		</div>
     </section>
 
-<link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">  
-<link href="{{url('css/style.css')}}" rel="stylesheet" type="text/css"/> 
+<link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">
+<link href="{{url('css/style.css')}}" rel="stylesheet" type="text/css"/>
 
 <script>
   function subscribeForm() {
@@ -183,7 +197,7 @@
   }
 </script>
 
-<script src="{{asset('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script> 
+<script src="{{asset('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script>
 <script src="{{asset('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js')}}"></script>
 <script src="{{asset('js/jquery-ui.min.js')}}"></script>
 <script src="{{asset('js/jscolor.min.js')}}"></script>
@@ -195,4 +209,4 @@
 <script src="{{asset('js/color.picker.js')}}"></script>
 
 </body>
-</html>	
+</html>

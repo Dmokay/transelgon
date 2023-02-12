@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <meta name="format-detection" content="telephone=no" /> 
-        <link rel="shortcut icon" href="favicon.ico"/>    
+    <meta name="format-detection" content="telephone=no" />
+        <link rel="shortcut icon" href="favicon.ico"/>
       <title>Transelgonmillers</title>
       <style id="dynamic-css"></style>
       <style type="text/css">
@@ -57,19 +57,31 @@
     </style>
   </head>
 <body class="page-color-style-1 page-style-1">
-   
-    
+
+<div class="preloader">
+    <div class="sk-cube-grid selected">
+        <div class="sk-cube sk-cube1"></div>
+        <div class="sk-cube sk-cube2"></div>
+        <div class="sk-cube sk-cube3"></div>
+        <div class="sk-cube sk-cube4"></div>
+        <div class="sk-cube sk-cube5"></div>
+        <div class="sk-cube sk-cube6"></div>
+        <div class="sk-cube sk-cube7"></div>
+        <div class="sk-cube sk-cube8"></div>
+        <div class="sk-cube sk-cube9"></div>
+    </div>
+</div>
 
                 @include('layouts.includes.header')
 
                 @yield('content')
 
                 @include('layouts.includes.footer')
-   
-    
 
-<link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">  
-<link href="{{url('css/style.css')}}" rel="stylesheet" type="text/css"/>  
+
+
+<link rel="stylesheet" href="{{url('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css')}}">
+<link href="{{url('css/style.css')}}" rel="stylesheet" type="text/css"/>
 
 <script>
   function subscribeForm() {
@@ -83,7 +95,7 @@
   }
 </script>
 
-<script src="{{asset('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script> 
+<script src="{{asset('https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js')}}"></script>
 <script src="{{asset('https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js')}}"></script>
 <script src="{{asset('js/jquery-ui.min.js')}}"></script>
 <script src="{{asset('js/all.js')}}"></script>
@@ -95,4 +107,4 @@
 <script src="{{asset('js/color.picker.js')}}"></script>
 
 </body>
-</html>	
+</html>
