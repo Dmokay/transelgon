@@ -21,3 +21,5 @@ Route::view('/products', 'pages/products')->name('products');
 Route::view('/shop', 'pages/shop')->name('shop');
 Route::view('/contact', 'pages/contact')->name('contact');
 Route::view('/comingsoon', 'pages/coming_soon')->name('comingsoon');
+Route::view('/maizeflour', 'pages/flour_shop')->name('maizeflour');
+Route::view('/feeds', 'pages/feeds_shop')->name('feeds');

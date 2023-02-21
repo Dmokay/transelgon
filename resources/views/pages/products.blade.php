@@ -59,9 +59,12 @@
                   <p>At Mwamba, we take pride in our commitment to sustainability and responsible sourcing. Our maize flour is packaged in eco-friendly, resealable bags to help reduce waste and keep your food fresher for longer.</p>
                 </div>
               </div>
+              
             </div>
+            
           </div>
         </div>
+        <a href="{{route('maizeflour')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Shop</span></a>
         <div class="empty-lg-70 empty-md-50 empty-sm-30 empty-xs-30"></div>
         <div class="row left-right-item">
           <div class="col-md-6 col-xs-12">
@@ -90,12 +93,15 @@
                 <div class="simple-text">
                   <p>With Mwamba, you can be sure that your animals are receiving the best nutrition for optimal growth, health, and productivity.</p>
                 </div>
+                <div class="empty-lg-35 empty-md-25 empty-sm-15 empty-xs-15"></div>
+                <a href="{{route('feeds')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Shop</span></a>
               </div>
             </div>
           </div>
         </div>
-       
+        
       </div>
+      
       <div class="empty-lg-140 empty-md-100 empty-sm-60 empty-xs-60"></div>
     </section>
    
