@@ -51,8 +51,8 @@
                       <div class="empty-sm-15 empty-xs-15"></div>
                       <ul class="list-style-1 ul-list">
                           <li><div class="flex-wrap"><span>Monday  -  Friday</span><i></i><b>09:00 - 18:00</b></div></li>
-                          <li><div class="flex-wrap"><span>Saturday</span><i></i><b>09:00 - 01:00</b></div></li>
-                          <li><div class="flex-wrap"><span>Sunday</span><i></i><b>Closed</b></div></li>
+                          <li><div class="flex-wrap"><span>Saturday</span><i></i><b>Closed</b></div></li>
+                          <li><div class="flex-wrap"><span>Sunday</span><i></i><b>09:00 - 01:00</b></div></li>
                       </ul>
                    </div>
                     <div class="empty-sm-30 empty-xs-30"></div>

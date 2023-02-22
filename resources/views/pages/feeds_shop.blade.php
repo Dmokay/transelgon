@@ -4,7 +4,7 @@
 <div class="main-content">
     
     <section class="full-height-slider type-1">
-       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/product-detail/main-baner-bg.jpg)" data-swiper-parallax="50%"></div>
+       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/animals_feeding.png)" data-swiper-parallax="50%"></div>
 		   <div class="table-view mobile-rel-block">
 			  <div class="table-cell">
 			   <div class="container no-padd"> 
@@ -12,7 +12,7 @@
              <div class="col-lg-6 col-lg-offset-3 col-sm-12 col-sm-offset-0">
                   <div class="simple-item color-type-1 text-center">
                   <div class="main-title">
-                   <h1 class="h1 caption">Our Animal Feeds</h1>
+                   <h1 class="h1 caption">Animal Feeds</h1>
                    <div class="empty-sm-30"></div>
                    <div class="col-md-10 col-md-offset-1">
                      <div class="simple-text md">
@@ -33,56 +33,22 @@
       <div class="container"> 
         <div class="row">
           <div class="col-lg-6 col-md-5 col-xs-12">
-            <img src="img/product-detail/product-detail-1-bg.png" alt="" class="full-img">
+            <img src="{{asset('img/tem/feeds_details.png')}}" alt="" class="full-img">
           </div>
           <div class="col-lg-6 col-md-7 col-xs-12">
             <div class="empty-sm-0 empty-xs-30"></div>
             <aside>
               <div class="empty-sm-20 empty-xs-20"></div>
-              <h4 class="h4 sm tt color-2">Mediterranean Shrimp Pizza</h4>
+              <h4 class="h4 sm tt color-2">Mwamba Feeds</h4>
               <div class="empty-sm-20 empty-xs-20"></div>
-              <h5 class="h5 sm color-2">Price: <span class="h4 main-col"><b>$8.40</b></span></h5>
-            </aside>
-            <div class="empty-sm-20 empty-xs-20"></div>
-            <aside class="product-size">
-              <h5 class="h5 sm color-2 inline-box">Size:</h5>
-              <div class="checkbox-entry-wrap">  
-                <label class="checkbox-entry">
-                    <input type="radio" name="1" checked="">
-                    <span>
-                      <i></i>
-                      <p>25cm <span>(250g)</span></p>  
-                    </span>
-                </label>
-              </div>
-              <div class="checkbox-entry-wrap">  
-                <label class="checkbox-entry">
-                    <input type="radio" name="1">
-                    <span>
-                      <i></i>
-                      <p>30cm <span>(450g)</span></p>  
-                    </span>
-                </label>
-              </div>
-              <div class="checkbox-entry-wrap">  
-                <label class="checkbox-entry">
-                    <input type="radio" name="1">
-                    <span>
-                      <i></i>
-                      <p>40cm <span>(550g)</span></p>  
-                    </span>
-                </label>
-              </div>
-            </aside>
-            <div class="empty-sm-25 empty-xs-20"></div>
-            <aside>
+              <aside>
               <div class="simple-text">
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat null eiusmod tempor incididunt ut labore tore veritatis </p>
+                <p>High-quality and nutritious feeds for various types of livestock and poultry.</p>
               </div>
             </aside>
             <div class="empty-sm-30 empty-xs-20"></div>
-            <aside>
-              <h5 class="tt h5 sm color-2">Choose Ingredients:</h5>
+              <aside>
+              <h5 class="tt h5 sm color-2">Choose Type:</h5>
               <div class="empty-sm-25 empty-xs-15"></div>
               <div class="arrow-closest item-padd-30">
   			       <div class="swiper-container checkbox-wrapp" data-mode="horizontal" data-effect="slide" data-add-slides="4" data-slides-per-view="responsive" data-lg-slides="4" data-md-slides="4" data-xs-slides="2" data-sm-slides="4" data-loop="0" data-speed="800" data-space="13">
@@ -92,10 +58,10 @@
         							<label class="checkbox-entry">
         								<input type="checkbox" checked="">
         								  <div class="content-check">
-        								    <img src="img/product-detail/сhoose-1.jpg" alt="" class="full-img">
+        								    <img src="{{asset('img/tem/dairy_meal.jpg')}}" alt="" class="full-img">
                             <div class="empty-sm-10 empty-xs-10"></div>
                             <div class="simple-text">
-                              <p><b>Peperoni</b></p>
+                              <p><b>Dairy Meal</b></p>
                             </div>
         								</div>
         							</label>
@@ -106,43 +72,17 @@
                       <label class="checkbox-entry">
                         <input type="checkbox" checked="">
                           <div class="content-check">
-                            <img src="img/product-detail/сhoose-2.jpg" alt="" class="full-img">
+                            <img src="{{asset('img/tem/maize_bran.jpg')}}" alt="" class="full-img">
                             <div class="empty-sm-10 empty-xs-10"></div>
                             <div class="simple-text">
-                              <p><b>Ham</b></p>
+                              <p><b>Maize Bran</b></p>
                             </div>
                         </div>
                       </label>
                       </div>
                     </div>
-                    <div class="swiper-slide" > 
-                      <div class="checkbox-entry-wrap type-1">  
-                      <label class="checkbox-entry">
-                        <input type="checkbox">
-                          <div class="content-check">
-                            <img src="img/product-detail/сhoose-3.jpg" alt="" class="full-img">
-                            <div class="empty-sm-10 empty-xs-10"></div>
-                            <div class="simple-text">
-                              <p><b>Mashrooms</b></p>
-                            </div>
-                        </div>
-                      </label>
-                      </div>
-                    </div>
-                    <div class="swiper-slide" > 
-                      <div class="checkbox-entry-wrap type-1">  
-                      <label class="checkbox-entry">
-                        <input type="checkbox">
-                          <div class="content-check">
-                            <img src="img/product-detail/сhoose-4.jpg" alt="" class="full-img">
-                            <div class="empty-sm-10 empty-xs-10"></div>
-                            <div class="simple-text">
-                              <p><b>Ruccola</b></p>
-                            </div>
-                        </div>
-                      </label>
-                      </div>
-                    </div>
+                    
+                    
         					</div>
                 </div>
                 <div class="swiper-arrow-left swiper-arrow type-3 style-3">
@@ -162,6 +102,35 @@
               </div>
             </aside>
             <div class="empty-sm-40 empty-xs-25"></div>
+
+            <aside class="product-size">
+              <h5 class="h5 sm color-2 inline-box">Size:</h5>
+              <div class="checkbox-entry-wrap">  
+                <label class="checkbox-entry">
+                    <input type="radio" name="1" checked="">
+                    <span>
+                      <i></i>
+                      <p>50Kg <span>(50,000g)</span></p>  
+                    </span>
+                </label>
+              </div>
+              <div class="checkbox-entry-wrap">  
+                <label class="checkbox-entry">
+                    <input type="radio" name="1">
+                    <span>
+                      <i></i>
+                      <p>70Kg <span>(70,000g)</span></p>  
+                    </span>
+                </label>
+              </div>
+              
+            </aside>
+            <div class="empty-sm-25 empty-xs-20"></div>
+
+              <h5 class="h5 sm color-2">Price: <span class="h4 main-col"><b>$8.40</b></span></h5>
+            </aside>
+            <div class="empty-sm-20 empty-xs-20"></div>
+            
             <aside>
             <div class="buy-bar type-2">
                <div class="fl">
@@ -203,22 +172,23 @@
               <div class="tab-container-item min-h-430">
                 <div class="empty-sm-60 empty-xs-30"></div>
                 <div class="simple-text">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo conse quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim</p>
+                  <p>We take pride in our commitment to producing feeds that are rich in essential nutrients and formulated to meet the specific dietary needs of each type of animal. Mwamba's animal feeds are made with the finest ingredients and are carefully balanced to provide the optimal nutrition for optimal health and productivity. Whether you're raising poultry, cattle, or pigs, Mwamba has a feed that is right for you. Their products are formulated with the latest research and technology to ensure the best possible nutrition for your animals. With Mwamba, you can be sure that your animals are receiving the best nutrition for optimal growth, health, and productivity.</p>
                 </div>
                 <div class="row">
                   <div class="col-sm-4 col-xs-12">
                     <div class="empty-sm-45 empty-xs-20"></div>
-                    <img src="img/product-detail/description-1.jpg" alt="" class="full-img">
+                    <img src="{{asset('img/tem/feeds_description3.png')}}" alt="" class="full-img">
                   </div>
                   <div class="col-sm-4 col-xs-12">
                     <div class="empty-sm-45 empty-xs-20"></div>
-                    <img src="img/product-detail/description-2.jpg" alt="" class="full-img">
+                    <img src="{{asset('img/tem/feeds_description1.png')}}" alt="" class="full-img">
                   </div>
                   <div class="col-sm-4 col-xs-12">
                     <div class="empty-sm-45 empty-xs-20"></div>
-                    <img src="img/product-detail/description-3.jpg" alt="" class="full-img">
+                    <img src="{{asset('img/tem/feeds_description2.png')}}" alt="" class="full-img">
                   </div>
                 </div>
+                
               </div>
               <div class="tab-container-item min-h-430">
                 <div class="empty-sm-60 empty-xs-30"></div>
@@ -320,7 +290,8 @@
                              <input type="submit">
                              <span class="txt">SUBMIT</span><i></i>
                           </div>
-                        </div>     
+                        </div>  
+                         
                        </form>
                     </article>
                   </div>
@@ -329,9 +300,10 @@
           </div>
         </div>
       </div>
+      <div class="empty-sm-30 empty-xs-15"></div>
     </section>
 
-    <section class="section">
+    <!-- <section class="section">
       <div class="empty-lg-100 empty-md-80 empty-sm-60 empty-xs-50"></div>
       <div class="container">
         <div class="row">
@@ -647,7 +619,7 @@
         </div>
       </div>
       <div class="empty-lg-140 empty-md-100 empty-sm-60 empty-xs-60"></div>
-    </section>
+    </section> -->
 	</div>
 
 @endsection

@@ -16,7 +16,7 @@
                    <div class="empty-sm-30"></div>
                    <div class="col-md-10 col-md-offset-1">
                      <div class="simple-text md">
-                         <p>Quality, Nutrisious and safe are the elements on which our production process focuses on to produce market competitive products</p>
+                         <p>Quality, Nutritious and Safe are the elements on which our production process focuses on to produce market competitive products</p>
                      </div>
                    </div>
                   </div>   
@@ -64,7 +64,7 @@
             
           </div>
         </div>
-        <a href="{{route('maizeflour')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Shop</span></a>
+        <a href="{{route('maizeflour')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Buy</span></a>
         <div class="empty-lg-70 empty-md-50 empty-sm-30 empty-xs-30"></div>
         <div class="row left-right-item">
           <div class="col-md-6 col-xs-12">
@@ -94,7 +94,7 @@
                   <p>With Mwamba, you can be sure that your animals are receiving the best nutrition for optimal growth, health, and productivity.</p>
                 </div>
                 <div class="empty-lg-35 empty-md-25 empty-sm-15 empty-xs-15"></div>
-                <a href="{{route('feeds')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Shop</span></a>
+                <a href="{{route('feeds')}}" class="page-button button-style-2"><span class="bg" style="background-image: url(img/home-1/button_img_3.jpg)"></span><span class="txt">Buy</span></a>
               </div>
             </div>
           </div>
@@ -102,7 +102,7 @@
         
       </div>
       
-      <div class="empty-lg-140 empty-md-100 empty-sm-60 empty-xs-60"></div>
+      <div class="empty-lg-70 empty-md-50 empty-sm-30 empty-xs-30"></div>
     </section>
    
 	</div>

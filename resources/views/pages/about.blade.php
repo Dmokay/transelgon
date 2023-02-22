@@ -4,7 +4,7 @@
 <div class="main-content">
     
     <section class="full-height-slider type-1">
-       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/background6.jpg)" data-swiper-parallax="50%"></div>
+       <div class="bg ready data-jarallax" data-jarallax="5" style="background-image: url(img/tem/mt_elgon2.png)" data-swiper-parallax="50%"></div>
 		   <div class="table-view mobile-rel-block">
 			  <div class="table-cell">
 			   <div class="container no-padd"> 
@@ -16,7 +16,7 @@
                    <div class="empty-sm-30"></div>
                    <div class="col-md-10 col-md-offset-1">
                      <div class="simple-text md">
-                         <p>Milling of maize and production of fortified maize flour is what we do best. </p>
+                         <p>At the heart of Mt. Elgon, Milling of maize and production of fortified maize flour is what we do best. </p>
                      </div>
                    </div>
                   </div>   
