@@ -1,6 +1,6 @@
 <header class="header header-style-1">
       <div class="navigation flex-align">
-         <a href="{{url('/')}}" class="logo"><img src="{{asset('img/tlogo.png')}}" alt="delice"><img src="{{asset('img/tlogo.png')}}" alt="delice" class="logo-type-2"></a>
+         <a href="{{url('/')}}" class="logo"><img src="{{asset('img/tlogo.png')}}" alt="Transelgon"><img src="{{asset('img/tlogo.png')}}" alt="Transelgon" class="logo-type-2"></a>
           <div class="burger-menu"><i></i></div>
            <div class="nav">
             <div class="nav-align-wrap">
