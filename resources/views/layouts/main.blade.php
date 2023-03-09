@@ -105,6 +105,7 @@
 <script src="{{asset('js/jquery.classycountdown.js')}}"></script>
 <script src="{{asset('js/jarallax.js')}}"></script>
 <script src="{{asset('js/color.picker.js')}}"></script>
-
+@yield('header_js')
+@yield('js')
 </body>
 </html>
