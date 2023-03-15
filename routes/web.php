@@ -26,4 +26,4 @@ Route::view('/maizeflour', 'pages/flour_shop')->name('maizeflour');
 Route::view('/feeds', 'pages/feeds_shop')->name('feeds');
 Route::view('/checkout', 'pages/checkout')->name('checkout');
 Route::post('/pay', [CheckoutController::class, 'pay'])->name('pay');
-Route::post('/callback', [CheckoutController::class, 'callback'])->name('pay');
+Route::any('/callback', [CheckoutController::class, 'callback'])->name('callback');
