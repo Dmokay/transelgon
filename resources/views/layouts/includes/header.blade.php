@@ -148,8 +148,8 @@
 
                         <li><a href="{{url('/')}}">Home</a></li>
                         <li><a href="{{route('about')}}">About</a></li>
-                        <li><a href="{{route('products')}}">Products</a></li>
-                        <li><a href="{{route('comingsoon')}}">Shop</a></li>
+                        <li><a href="{{route('products')}}">Shop</a></li>
+                        <!-- <li><a href="{{route('comingsoon')}}">Shop</a></li> -->
                         <li><a href="{{route('contact')}}">Contact</a></li>
 
                     </ul>

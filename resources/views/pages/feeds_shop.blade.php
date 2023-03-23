@@ -176,7 +176,7 @@
                         <div class="text-center">
                             <ul class="item-tabs type-2">
                                 <li class="active"><a href="#" class="link-hover-line type-2">Description</a></li>
-                                <li><a href="#" class="link-hover-line type-2">Reviews</a></li>
+                                <!-- <li><a href="#" class="link-hover-line type-2">Reviews</a></li> -->
                             </ul>
                         </div>
                         <div class="tab-container-wraps">
@@ -209,133 +209,7 @@
                                 </div>
 
                             </div>
-                            <div class="tab-container-item min-h-430">
-                                <div class="empty-sm-60 empty-xs-30"></div>
-                                <div class="col-md-10 col-md-offset-1 col-xs-12">
-                                    <article>
-                                        <div class="comment-wrap">
-                                            <ul>
-                                                <li>
-                                                    <div class="testimonials-item testi-type-4 style-2">
-                                                        <div class="img">
-                                                            <img src="img/blog/comments-1.jpg" alt="">
-                                                        </div>
-                                                        <div class="text">
-                                                            <h5 class="h5 caption">Emil Bonny</h5>
-                                                            <div class="empty-sm-15 empty-xs-15"></div>
-                                                            <span class="proff">June, 19, 2016</span>
-                                                            <div class="empty-sm-15 empty-xs-15"></div>
-                                                            <div class="simple-text">
-                                                                <p>Sed ut perspiciatis, unde omnis iste natus error sit
-                                                                    voluptatem accusantium doloremque laudantium, totam
-                                                                    rem aperiam eaque ipsa, quae ab illo inventore
-                                                                    veritatis et quasi architecto beatae vitae dicta
-                                                                    sunt, explicabo.</p>
-                                                            </div>
-                                                            <div class="empty-sm-25 empty-xs-25"></div>
-                                                            <span class="separator"></span>
-                                                        </div>
-                                                        <div class="reply">
-                                                            <a href="#"
-                                                               class="page-button button-style-1 sm type-3"><span
-                                                                    class="txt">REPLY</span></a>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <ul>
-                                                        <div class="empty-sm-25 empty-xs-25"></div>
-                                                        <li>
-                                                            <div class="testimonials-item testi-type-4 style-2">
-                                                                <div class="img">
-                                                                    <img src="img/blog/comments-2.jpg" alt="">
-                                                                </div>
-                                                                <div class="text">
-                                                                    <h5 class="h5 caption">Daniel Collins</h5>
-                                                                    <div class="empty-sm-15 empty-xs-15"></div>
-                                                                    <span class="proff">5 minutes ago</span>
-                                                                    <div class="empty-sm-15 empty-xs-15"></div>
-                                                                    <div class="simple-text">
-                                                                        <p>Lorem ipsum dolor sit amet, consectetur
-                                                                            adipiscing elit</p>
-                                                                    </div>
-                                                                    <div class="empty-sm-25 empty-xs-25"></div>
-                                                                </div>
-                                                                <div class="reply">
-                                                                    <a href="#"
-                                                                       class="page-button button-style-1 sm type-3"><span
-                                                                            class="txt">REPLY</span></a>
-                                                                </div>
-                                                            </div>
-                                                        </li>
-                                                        <span class="separator"></span>
-                                                    </ul>
-                                                </li>
-                                                <li>
-                                                    <div class="empty-sm-25 empty-xs-25"></div>
-                                                    <div class="testimonials-item testi-type-4 style-2">
-                                                        <div class="img">
-                                                            <img src="img/blog/comments-3.jpg" alt="">
-                                                        </div>
-                                                        <div class="text">
-                                                            <h5 class="h5 caption">Linda Cormik</h5>
-                                                            <div class="empty-sm-15 empty-xs-15"></div>
-                                                            <span class="proff">1 day ago</span>
-                                                            <div class="empty-sm-15 empty-xs-15"></div>
-                                                            <div class="simple-text">
-                                                                <p>Nemo enim ipsam voluptatem, quia voluptas sit,
-                                                                    aspernatur aut odit aut fugit, sed quia consequuntur
-                                                                    magni dolores eos, qui ratione voluptatem sequi
-                                                                    nesciunt, neque porro quisquam est, qui dolorem
-                                                                    ipsum, quia dolor sit, amet, consectetur, adipisci
-                                                                    velit, sed quia non numquam eius modi tempora
-                                                                    incidunt, ut labore et dolore magnam aliquam quaerat
-                                                                    voluptatem.</p>
-                                                            </div>
-                                                        </div>
-                                                        <div class="reply">
-                                                            <a href="#"
-                                                               class="page-button button-style-1 sm type-3"><span
-                                                                    class="txt">REPLY</span></a>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="empty-sm-50 empty-xs-30"></div>
-                                    </article>
-                                    <article>
-                                        <div class="text-left color-type-2">
-                                            <h4 class="h4 tt color-type-1">leave Your comment</h4>
-                                        </div>
-                                        <div class="empty-sm-45 empty-xs-30"></div>
-                                        <form action="#">
-                                            <div class="row">
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <input type="text" class="input-field" placeholder="Name *"
-                                                           required="">
-                                                    <div class="empty-sm-20 empty-xs-20"></div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <input type="email" class="input-field" placeholder="Email *"
-                                                           required="">
-                                                    <div class="empty-sm-20 empty-xs-20"></div>
-                                                </div>
-                                            </div>
-                                            <textarea placeholder="Comment..." class="input-field"
-                                                      required=""></textarea>
-                                            <div class="empty-sm-30 empty-xs-30"></div>
-                                            <div class="text-left">
-                                                <div class="page-button button-style-1 type-2">
-                                                    <input type="submit">
-                                                    <span class="txt">SUBMIT</span><i></i>
-                                                </div>
-                                            </div>
-
-                                        </form>
-                                    </article>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

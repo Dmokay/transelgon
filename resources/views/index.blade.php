@@ -180,7 +180,7 @@
                       <div class="image">
                           <span class="page-span-1 page-span"></span>
                           <span class="page-span-2 page-span type-2"></span>
-                          <img src="{{asset('img/tem/flour.png')}}" alt="">
+                          <img src="{{asset('img/tem/siagi.jpg')}}" alt="">
                           <div class="vertical-align full menu-button">
                               <a href="#" class="page-button button-style-1"><span class="txt">view more</span></a>
                           </div>
@@ -320,7 +320,7 @@
                        <div class="simple-item-style-2 simple-item">
                           <span class="page-span-4 page-span"></span>
                           <span class="page-span-2 page-span type-2"></span>
-                          <img src="{{asset('img/tem/homelast.png')}}" alt="" class="resp-img">
+                          <img src="{{asset('img/tem/flour6.jpg')}}" alt="" class="resp-img">
                         </div>
                     </div>
                 </div>

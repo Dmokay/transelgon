@@ -141,8 +141,8 @@
                  <div class="empty-sm-20 empty-xs-10"></div>
                  <ul class="list-style-1 ul-list">
                   <li><div class="flex-wrap"><span>Monday  -  Friday</span><i></i><b>08:00 - 18:00</b></div></li>
-                  <li><div class="flex-wrap"><span>Saturday</span><i></i><b>09:00 - 01:00</b></div></li>
-                  <li><div class="flex-wrap"><span>Sunday</span><i></i><b>Closed</b></div></li>
+                  <li><div class="flex-wrap"><span>Saturday</span><i></i><b>Closed</b></div></li>
+                  <li><div class="flex-wrap"><span>Sunday</span><i></i><b>09:00 - 01:00</b></div></li>
                  </ul>
               </div>
             </aside>

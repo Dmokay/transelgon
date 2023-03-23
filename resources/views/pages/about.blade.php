@@ -78,7 +78,7 @@
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="wrapp-border">
                   <span class="page-span-6 page-span right"></span> 
-                  <img src="{{asset('img/tem/recog2.1.png')}}" alt="" class="full-img">
+                  <img src="{{asset('img/tem/recog2.3.jpg')}}" alt="" class="full-img">
                 </div>
               </div>
             </div>
@@ -213,7 +213,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
              <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/tem/gallery1.png')}}" alt="">
+                <img src="{{asset('img/tem/G1.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
@@ -223,7 +223,7 @@
           <div class="col-md-2 col-sm-2 col-xs-4">
             <div class="menu-item menu-item-2 color-type-1">
               <div class="image hover-zoom">
-                <img src="{{asset('img/tem/gallery2.png')}}" alt="">
+                <img src="{{asset('img/tem/flour7.jpg')}}" alt="">
                 <div class="vertical-align full menu-button">
                   <h5 class="h5 caption"><a href="{{url('#')}}" class="link-hover-line open-popup" data-open="popup-gallery">View More</a></h5>
                 </div>
