@@ -150,7 +150,7 @@
                </div>
                <div class="empty-sm-40  empty-xs-40"></div>
                <div class="button-wrap">
-                   <a href="{{route('comingsoon')}}" class="page-button button-style-1"><span class="txt">Shop</span></a>
+                   <a href="{{route('products')}}" class="page-button button-style-1"><span class="txt">Shop</span></a>
                </div>
          </div>  
        </div>
