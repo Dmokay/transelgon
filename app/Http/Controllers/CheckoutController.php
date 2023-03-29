@@ -2,11 +2,13 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\PaymentMail;
 use App\Models\Checkout;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\RequestException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Mail;
 
 class CheckoutController extends Controller
 {
@@ -46,7 +48,7 @@ class CheckoutController extends Controller
             $data_items = $data['CallbackMetadata']['Item'];
             try {
                 $checkout->update(['transaction_id'=>$data_items[1]['Value'], 'status'=>2]);
-                //TODO send email
+                Mail::to('makamuevans@gmail.com')->send(new PaymentMail($checkout));
             } catch (\Exception $exception) {
                 Log::error($exception->getMessage());
             }
@@ -121,8 +123,8 @@ class CheckoutController extends Controller
             "PartyA" => $phone,
             "PartyB" => "6176531",
             "PhoneNumber" => $phone,
-            "CallBackURL" => "https://safaricom.free.beeceptor.com/",
-            //"CallBackURL" => url('callback/stk'),
+            //"CallBackURL" => "https://safaricom.free.beeceptor.com/",
+            "CallBackURL" => url('callback'),
             //"CallBackURL" => "https://gobeba.free.beeceptor.com",
             "AccountReference" => $id,
             "TransactionDesc" => "Pay Bill"
@@ -154,5 +156,11 @@ class CheckoutController extends Controller
         Log::channel('mpesa')->info("Mpesa STK Push: Phone $phone  Response: $body");
         $body = json_decode((string)$body, true);
         return array('status' => true, 'data' => $body);
+    }
+
+    public function test(){
+        $checkout = Checkout::where('id', 1)->first();
+        //dd($checkout->decoded_items[0]);
+        Mail::to('makamuevans@gmail.com')->send(new PaymentMail($checkout));
     }
 }

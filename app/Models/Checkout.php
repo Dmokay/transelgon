@@ -10,4 +10,10 @@ class Checkout extends Model
     use HasFactory;
 
     protected $guarded = [];
+
+    public function getDecodedItemsAttribute(){
+        return json_decode($this->items);
+    }
+
+    protected $appends = ["decoded_items"];
 }
