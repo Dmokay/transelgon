@@ -7,7 +7,7 @@
        <div class="swiper-container full-h paralax-slider animation-3" data-mode="horizontal" data-autoplay="5000" data-slides-per-view="1" data-loop="0" data-speed="1000" data-parallax="1">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <div class="parallax-bg bg" style="background-image: url(img/home-1/101.jpg)" data-swiper-parallax="50%"></div>
+                  <div class="parallax-bg bg" style="background-image: url(img/slider1.jpeg)" data-swiper-parallax="50%"></div>
                    <div class="table-view mobile-rel-block">
                    	 <div class="table-cell">
                        <div class="container">
