@@ -27,3 +27,4 @@ Route::view('/feeds', 'pages/feeds_shop')->name('feeds');
 Route::view('/checkout', 'pages/checkout')->name('checkout');
 Route::post('/pay', [CheckoutController::class, 'pay'])->name('pay');
 Route::any('/callback', [CheckoutController::class, 'callback'])->name('callback');
+Route::get('/test', [CheckoutController::class, 'test']);
